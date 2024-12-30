@@ -3,7 +3,7 @@ title: Chaesoo Shin
 first_name: Chaesoo
 last_name: Shin
 superuser: false
-role: Researcher for performing machine learning
+role: Researcher at KENTECH
 organizations:
   - name: Korea Institute of Energy Technology
     url: ''

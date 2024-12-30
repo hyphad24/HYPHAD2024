@@ -3,7 +3,7 @@ title: Geun Ho Gu
 first_name: Geun Ho
 last_name: Gu
 superuser: true
-role: Professor of Artificial Intelligence
+role: Professor of Energy Engineering
 organizations:
   - name: Korea Institute of Energy Technology
     url: ''

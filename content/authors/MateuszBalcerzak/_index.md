@@ -1,7 +1,7 @@
 ---
-title: Łukasz Gondek
-first_name: Łukasz
-last_name: Gondek
+title: Mateusz Balcerzak
+first_name: Mateusz
+last_name: Balcerzak
 superuser: false
 role: Group Leader of Hydrogen Storage Technology and Systems
 organizations:
