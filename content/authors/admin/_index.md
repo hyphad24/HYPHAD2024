@@ -1,64 +1,29 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
-
-# Is this the primary user of the site?
+title: Geun Ho Gu
+first_name: Geun Ho
+last_name: Gu
 superuser: true
-
-# Role/position
 role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Korea Institute of Energy Technology
     url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Geun Ho Gu is a professor at KENTECH and an expert in machine learning for energy materials.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Materials Science
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Chemical Engineering
+      institution: University of Delaware
+      year: 2018
+    - course: BSc in Chemical Engineering
+      institution: University of Illinois at Urbana-Champaign
       year: 2008
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
-
-# Highlight the author in author lists? (true/false)
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - KENTECH
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Geun Ho Gu is an assistant professor at the Korea Institute of Energy Technology (KENTECH) and a leader in machine learning-driven energy materials research. With over a decade of experience, his work spans developing DFT-based machine learning models, multiscale simulation workflows, and synthesizability prediction techniques to accelerate material discovery. As the principal investigator of the HYPHAD project, he focuses on integrating computational and experimental approaches to design innovative metal hydrides for hydrogen storage, contributing to the advancement of sustainable energy technologies.
