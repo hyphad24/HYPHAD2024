@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        HYPHAD Consortium
+        Discovering Metal Hydride
       image:
         filename: welcome.jpg
       text: |
